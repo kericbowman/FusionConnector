@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"85c5732a-6896-430a-b1c5-00450443822c",
+	"author":	"Eric Bowman",
+	"description":	{
+		"":	"Fusion 360 Connector for NVIDIA Omniverse"
+	},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows",
+	"editEnabled":	true
+}
